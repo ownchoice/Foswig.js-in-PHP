@@ -5,6 +5,8 @@
   <!-- Required meta tags -->
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/png" href=" data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAAWQAAAFkBqp2phgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAK7SURBVDiNdZFrSJNhFMf/77vt3ZxTp9t0xSznbeS8ppCFGAglWpTWB0OKjNIPQmB96IN0wcKkrJSgIMMPGaWImFSCkRmIZZHltRZrs9DNy3Re5ty7+9OHcjTTAw8c/pznd87/HIoQAoqiEg6lie8rpYyEy6EZC+teMlk8C+NzbPuowf6IEOLEJkERQrArRlScpQx8IBNxGYqloY7kIzWGzzPbvaShz/xjcILt7tdZz28EogHgo9761CjgD+SdTmJkxkAmfDSEOdds9jR9Wl7OjRMpW0qjygt2ivuVcmHmhgAAYHi0N2WHGBY1F528ZdTeyuDevpsdqipU0ZVt07aafHla+d6wjuRIUfG/AO5aUlYUqwGQU1Gd6NchSMRwk+1ibvdrj2vfbpGU7KFqUxQBs8MG9o3fBA9b9Qlrec3FEVSXfUFvrwmBQi4mrQ6wZi/vznuLMy9WKFcrhDcoiqL9AISAAgDDjA3BY26UeqToaTYgJIiHyy0ZOFwXj6Yn2QGNA0u2S/kRqWqF4IwfYEZjjauv10AhF8IaxcEQ346DJ7bBOM2i4Z4WvyYtWDQaYRXQuPpiWq+fsWt9ZwSAygzl1LzNtaXheZbfDq5dGELJnBhn9TrMymD/MGJWEUIm/rvC4NIqJ+fIVr/PxOsFj3GhzmgkUwGUoagg0w3AsuEVFBnB346VRIe7PQTPOiagihaAuBaJzulhp6KEbRIqjAkW8Q8AcP8L8E0AQmgAeNyog6SVRVXFGE5Wjb8tLNjP59B/yhJVER4Ajk0AoLwuB8xTi2hdMblpGZM7rF3Ja3s5+GrejCsOh2uyveurCwDH3ychIISg4vj27y3X4z1Z6XIbAOmavvYAUEnxEdHrdd8ONOOrpp5Bp/XU0XRV3+dOP59/GxEA4+t1n4Wud3PZEknoTe3PBQ2AlfWFm8VvH/s7VJjmJCMAAAAASUVORK5CYII=" />
+  <!-- Attribution: https://www.flaticon.com/free-icon/pizza_1384727 -->
 
   <!-- Bootstrap CSS -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
