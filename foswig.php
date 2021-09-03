@@ -134,8 +134,8 @@ class MarkovChain
       ($maxAttempts <= 0 || ++$attempts < $maxAttempts)
     );
     if ($maxAttempts > 0 && $attempts >= $maxAttempts) {
-      // throw new Exception('Unable to generate a word with the given parameters after ' . $attempts . ' attempts');
-      return 'Unable to generate a word with the given parameters after ' . $attempts . ' attempts';
+      throw new Exception('Unable to generate a word with the given parameters after ' . $attempts . ' attempts');
+      // return 'Unable to generate a word with the given parameters after ' . $attempts . ' attempts';
     }
     return $word;
   }
