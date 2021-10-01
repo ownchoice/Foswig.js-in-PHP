@@ -48,7 +48,7 @@ $word = $chain->generate($minLength = 3, $maxLength = 6, $allowDuplicates = fals
 
 - I did this as an exercise to learn PHP.
 - Therefore, I can't guarantee that it is production-ready.
-- The `start` attribute of the `MarkovChain` class has two `null` at the end of every node, but it doesn't seem to cause any bugs 🤷
+- The `start` attribute of the `MarkovChain` class has two `null` at the end of every node instead of one, but it doesn't seem to cause any bugs 🤷
 - Not thoroughly tested.
 
 ## Based on
