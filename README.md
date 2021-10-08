@@ -53,4 +53,4 @@ $word = $chain->generate($minLength = 3, $maxLength = 6, $allowDuplicates = fals
 
 ## Based on
 
-Original code: [mrsharpoblunto/foswig.js](https://github.com/mrsharpoblunto/foswig.js)
+Original code: [mrsharpoblunto's foswig.js](https://github.com/mrsharpoblunto/foswig.js)
